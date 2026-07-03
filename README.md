@@ -133,17 +133,15 @@ Coming Soon...
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=yerinluvmatcha&theme=rose&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=yerinluvmatcha&theme=rose&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yerinluvmatcha&theme=rose&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=yerinluvmatcha&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yerinluvmatcha&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yerinluvmatcha&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ୨୧ ─────────── ୨୧-୨୧ ─────────── ୨୧
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=yerinluvmatcha&theme=rose&no-frame=true&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=yerinluvmatcha&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ୨୧ ─────────── ୨୧
 
@@ -183,4 +181,5 @@ Let's keep learning, building, and growing together! 💖
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=yerinluvmatcha&color=ff69b4&style=for-the-badge)
+---
+[![](https://komarev.com/ghpvc/?username=yerinluvmatcha&icon=7&color=10)](https://visitcount.itsvg.in)
