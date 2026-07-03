@@ -179,5 +179,3 @@ Feel free to explore my repositories and follow my coding journey.
 
 Let's keep learning, building, and growing together! 💖
 
-</p>
-[![](https://komarev.com/ghpvc/?username=yerinluvmatcha&icon=7&color=10)(https://visitcount.itsvg.in) ]
